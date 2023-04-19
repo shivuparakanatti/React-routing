@@ -21,7 +21,7 @@ const UserShow =(props)=>{
             <p>{user.email}</p>
             <p>{user.address&&user.address.city}</p>
             
-            
+
             
         </div>
 
