@@ -36,12 +36,6 @@ const UserList =(props)=>{
             }
         </ol>
 
-
-       
-            
-
-        
-
         </div>
     )
 }
