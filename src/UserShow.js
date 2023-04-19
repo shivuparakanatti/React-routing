@@ -13,7 +13,7 @@ const UserShow =(props)=>{
         })
     },[])
 
-    return (
+return (
         <div>
             
             <h1>User - {id}</h1>
@@ -24,7 +24,6 @@ const UserShow =(props)=>{
 
             
         </div>
-
 
     )
 }
