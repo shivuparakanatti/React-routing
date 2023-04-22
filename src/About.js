@@ -5,6 +5,7 @@ const About =(props)=>{
         <div>
             
            <h1>About component</h1> 
+        
         </div>
     )
 }
