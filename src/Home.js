@@ -6,7 +6,7 @@ const Home =(props)=>{
         <div>
             
            <h1>Home component</h1> 
-        
+    
         </div>
         
     )
