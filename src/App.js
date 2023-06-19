@@ -12,7 +12,7 @@ const App =(props)=>{
   return (
     <div>
       <h1>React Routing</h1> 
-    
+  
       <ul>
         <li><Link to='/'>Home</Link></li>
         <li><Link to='/About'>About</Link></li>
