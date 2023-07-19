@@ -19,7 +19,6 @@ const App =(props)=>{
         <li><Link to="/users">Users</Link></li>
       </ul>
 
-
       <Route path='/' component={Home} exact={true}/>
       <Route path = '/About' component={About} exact={true}/>
       <Route path='/Contact' component={Contact} exact={true} />
