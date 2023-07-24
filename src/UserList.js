@@ -2,7 +2,6 @@ import React, {useState , useEffect} from 'react'
 import {Link , Route} from 'react-router-dom'
 import Axios from 'axios'
 
-
 const UserList =(props)=>{
     const [users , setUser] =useState([])
 
