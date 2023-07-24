@@ -11,7 +11,7 @@ const UserList =(props)=>{
         .then(response=>{
             const res=response.data
            setUser(res)
-          
+         
         })
         .catch(err =>{
             console.log(err.message)
